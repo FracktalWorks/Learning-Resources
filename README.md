@@ -43,7 +43,10 @@ A CLI script (e.g., calculator or JSON parser) with type hints + docstrings, ver
 **Resources**  
 - [PEP 8 Style Guide](https://peps.python.org/pep-0008/)  
 - [Logging HOWTO (Python Docs)](https://docs.python.org/3/howto/logging.html)  
-- [pytest Getting Started](https://docs.pytest.org/en/stable/getting-started.html)  
+- [pytest Getting Started](https://docs.pytest.org/en/stable/getting-started.html)
+- [Python Docs — venv](https://docs.python.org/3/library/venv.html)  
+- [Installing Packages with pip and venv (Python Packaging Guide)](https://packaging.python.org/en/latest/tutorials/installing-packages/)  
+- [RealPython: Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)  
 
 **Deliverable**  
 A Python package (e.g., math utilities) with logging + pytest test suite.  
@@ -126,7 +129,12 @@ Extend Week 4 project with a plugin system that adds new “panels” or feature
 **Resources**  
 - [Prompt Engineering for Copilot (GitHub Docs)](https://docs.github.com/en/copilot/concepts/prompting/prompt-engineering)  
 - [Write Tests with Copilot](https://docs.github.com/en/copilot/tutorials/write-tests)  
-- [Black Code Formatter](https://black.readthedocs.io/en/stable/)  
+- [Black Code Formatter](https://black.readthedocs.io/en/stable/)
+- [Best practices for using GitHub Copilot](https://docs.github.com/en/copilot/get-started/best-practices)  
+- [Prompt engineering for GitHub Copilot Chat](https://docs.github.com/en/copilot/concepts/prompting/prompt-engineering)  
+- [5 Tips for Writing Better Custom Instructions for Copilot (GitHub Blog)](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/)  
+- [Best practices for using Copilot to work on tasks (Coding Agent)](https://docs.github.com/copilot/how-tos/agents/copilot-coding-agent/best-practices-for-using-copilot-to-work-on-tasks)  
+- [Microsoft Learn: Introduction to Prompt Engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/)  
 
 **Deliverable**  
 Refactor earlier projects with Copilot → enforce PEP-8, add tests, auto-generate README/docs.  
